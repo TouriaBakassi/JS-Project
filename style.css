@@ -1,0 +1,11 @@
+/*                                      light and dark Mode */
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+i{
+position: absolute;
+top: 5%;
+left: 32%;
+font-size: 30px;
+} 
